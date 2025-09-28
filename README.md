@@ -1,16 +1,17 @@
 # ekhtibar_appp
 
-A new Flutter project.
+Information test game.
 
-## Getting Started
+## video
+![](assets/video1.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+![](assets/iimeg1.png)
+![](assets/iimeg2.png)
+![](assets/iimeg3.png)
+![](assets/iimeg4.png)
+![](assets/iimeg5.png)
+![](assets/iimeg6.png)
+![](assets/iimeg7.png)
+![](assets/iimeg8.png)
+.
